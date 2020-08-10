@@ -10,6 +10,7 @@ public class Sam1Pack {
 		System.setProperty("webdriver.chrome.driver", "C:\\Users\\Saba Siva\\eclipse-workspace\\FacebookMaven\\driver\\chromedriver.exe");
 		 WebDriver driver =new ChromeDriver();
 		 driver.get("https://www.facebook.com/");
+		 System.out.println("hiii....");
 		 
 	}
 }
